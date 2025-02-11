@@ -11,3 +11,7 @@ You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along 
 Now, in the browser go to <code>localhost:5173</code>
 
 
+Visit Github Page Site: https://vittoriasalim.github.io/ISYS2110_S12025_template/ 
+- To deploy : <code>npm run deploy</code>
+
+
